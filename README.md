@@ -2,6 +2,9 @@
 
 An intelligent travel itinerary planning system built with AI agents that creates personalized travel plans for AgentsVille, considering weather conditions, traveler interests, budget constraints, and user feedback.
 
+> 🎓 **Project from Udacity's Agentic AI Nanodegree**  
+> Part of the [Agentic AI Nanodegree](https://www.udacity.com/course/agentic-ai--nd900) program, demonstrating practical applications of AI agent development.
+
 ## 🌟 Features
 
 - **Intelligent Itinerary Planning**: Creates day-by-day travel plans using Chain-of-Thought reasoning
