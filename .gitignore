@@ -1,0 +1,16 @@
+# Environment files
+.env
+.venv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+
+# Editors
+.idea/
+.vscode/
+
+# System files
+.DS_Store
